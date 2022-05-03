@@ -10,6 +10,8 @@
     "@types/node": "^16.11.33",
     "@types/react": "^18.0.8",
     "@types/react-dom": "^18.0.3",
+    "axios": "^0.27.2",
+    "md5": "^2.3.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
@@ -39,5 +41,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/md5": "^2.3.2",
+    "sass": "^1.51.0",
+    "typescript-plugin-css-modules": "^3.4.0"
   }
 }
